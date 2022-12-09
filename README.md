@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sabahkt3
 - 👀 I’m interested in Web development, AI, Metaverse
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Web development
+- 🌱 currently learning Python
 - 📫 +919847784054
 - sebikt3@gmail.com
 
